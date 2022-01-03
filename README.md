@@ -1,2 +1,2 @@
 # NeuralStyleTransfer
-Neural Style Transfer in 1 ipynb
+One py script to rule them all...
